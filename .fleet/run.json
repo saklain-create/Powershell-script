@@ -1,0 +1,9 @@
+{
+    "configurations": [
+    {
+            "type": "command",
+            "name": "Command configuration",
+            "program": "Powershell.exe -File $PROJECT_DIR$\math.ps1",
+        },
+    ]
+}
